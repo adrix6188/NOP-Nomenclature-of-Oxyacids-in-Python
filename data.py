@@ -33,7 +33,7 @@ class Elementos:
             "Br": "brom",
             "I": "iod",
             "AT": "astat",
-            "CR": "cromo",
+            "CR": "crom",
             "Mn": "mangan",
             "W": "wolfram",
             "V": "vanadio"
